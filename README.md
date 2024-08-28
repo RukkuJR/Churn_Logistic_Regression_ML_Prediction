@@ -1,5 +1,7 @@
 # Churn_Logistic_Regression_ML_Prediction
 
+This is a  pet project to learn Machine Learning(ML) using pandas and scikit-learn libraries in python. The project is to predict potential telco customer who will churn based on their behaviors like contract, age, monthly payment etc. The dataset is from kaggle and it has historical actual churn. So this is used as supervised Machine Learning from history and create prediction. I have used logistic regression since the target categorization is simply a yes or not situation. Random forest algorithm could also be tested.
+
 Process
 
 1)Data Collection
