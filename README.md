@@ -24,6 +24,8 @@ Process
   -Apply trained model across whole DF
   -integrate prediction back to DF
 
+  Tools - python- pandas and scikit-learn ML library
+
 
 
 
